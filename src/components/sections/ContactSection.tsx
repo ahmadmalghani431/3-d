@@ -63,7 +63,7 @@ export const ContactSection: React.FC = () => {
             <div className="glass-panel p-6 sm:p-8 rounded-3xl border border-white/10 flex flex-col gap-6">
               <div>
                 <h3 className="font-sans font-bold text-xl text-white uppercase tracking-tight mb-2">
-                  AHSAN ZAMAN
+                  M AHMAD
                 </h3>
                 <div className="font-mono-code text-xs text-[#00f0ff] uppercase tracking-wider font-semibold">
                   Founder &amp; Principal AI Architect
@@ -295,7 +295,7 @@ export const ContactSection: React.FC = () => {
             FINAL BRAND CREDO
           </div>
           <div className="text-2xl sm:text-4xl md:text-5xl font-sans font-black tracking-tight text-white uppercase leading-tight">
-            AHSAN ZAMAN // AGENTIC AI
+            M AHMAD // AGENTIC AI
           </div>
           <p className="font-serif-italic text-xl sm:text-3xl text-gold-gradient mt-2 font-light">
             "Building the next generation of intelligent automation."
@@ -307,7 +307,7 @@ export const ContactSection: React.FC = () => {
       {/* Footer System Credits */}
       <footer className="mt-16 pt-8 border-t border-white/5 font-mono-code text-xs text-white/40 flex flex-col sm:flex-row items-center justify-between gap-4 max-w-7xl mx-auto w-full">
         <div>
-          &copy; {new Date().getFullYear()} AHSAN ZAMAN. ALL RIGHTS RESERVED.
+          &copy; {new Date().getFullYear()} M AHMAD. ALL RIGHTS RESERVED.
         </div>
         <div className="flex items-center gap-2">
           <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />

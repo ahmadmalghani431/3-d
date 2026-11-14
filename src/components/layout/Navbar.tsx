@@ -35,7 +35,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onNavigate }) => {
           </div>
           <div>
             <div className="font-sans font-bold text-sm tracking-widest uppercase text-white flex items-center gap-1.5">
-              <span>AHSAN ZAMAN</span>
+              <span>M AHMAD</span>
               <span className="w-1.5 h-1.5 rounded-full bg-[#00f0ff] animate-pulse" />
             </div>
             <div className="font-mono-code text-[10px] tracking-wider text-[#d4af37] uppercase font-semibold">
