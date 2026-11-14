@@ -1,5 +1,5 @@
-/**
- * Futuristic Web Audio Synthesizer for Muhammad Ahmad — Agentic AI
+﻿/**
+ * Futuristic Web Audio Synthesizer for AHSAN ZAMAN — Agentic AI
  * Zero external audio files: synthesized on-the-fly using oscillators and gain envelopes.
  * Muted by default.
  */

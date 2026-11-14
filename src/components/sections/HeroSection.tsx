@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import { Sparkles, ArrowRight, Activity, ShieldCheck, Zap, Bot } from 'lucide-react';
 import { sound } from '../../utils/sound';
 
@@ -36,7 +36,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onExploreUniverse, onD
         {/* Futuristic Badge */}
         <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass-panel border border-[#00f0ff]/30 text-[#00f0ff] font-mono-code text-xs tracking-widest uppercase mb-8 glow-blue">
           <Bot className="w-4 h-4 animate-spin" style={{ animationDuration: '6s' }} />
-          <span>MUHAMMAD AHMAD // AGENTIC AI</span>
+          <span>AHSAN ZAMAN // AGENTIC AI</span>
           <span className="w-1.5 h-1.5 rounded-full bg-[#d4af37]" />
         </div>
 
